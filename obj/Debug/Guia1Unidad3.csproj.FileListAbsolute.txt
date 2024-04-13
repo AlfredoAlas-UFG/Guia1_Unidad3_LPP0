@@ -1,0 +1,16 @@
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\Guia1Unidad3.exe.config
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\Guia1Unidad3.exe
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\Guia1Unidad3.pdb
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\EntityFramework.dll
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\EntityFramework.xml
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.csproj.AssemblyReference.cache
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.Form1.resources
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.FrmTabla.resources
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.Properties.Resources.resources
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.csproj.GenerateResource.cache
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Uni.30BB1C6B.Up2Date
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.exe
+C:\ProyectosPersonales\LPP0\Guia1Unidad3\obj\Debug\Guia1Unidad3.pdb
